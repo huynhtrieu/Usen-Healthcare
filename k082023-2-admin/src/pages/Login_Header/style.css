@@ -1,0 +1,7 @@
+.ant-card-head-wrapper {
+    font-size: 10px;
+    color: #03A9F4;
+  }
+  .ant-card .ant-card-head{
+    border-bottom: 0px;
+  }

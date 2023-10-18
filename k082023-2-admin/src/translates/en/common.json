@@ -1,0 +1,128 @@
+{
+  "home": "Home",
+  "history": "History",
+  "deposit": "Deposit",
+  "withdraw": "Withdraw",
+  "close": "Close",
+  "address": "Address",
+  "amount": "Amount",
+  "cancel": "Cancel",
+  "email": "Email",
+  "currency": "Currency",
+  "date": "Date",
+  "login": "Login",
+  "status": "Status",
+  "to": "To",
+  "from": "From",
+  "block_number": "Block Number",
+  "txid": "TxID",
+  "count": "Count",
+  "increment": "Increment",
+  "decrement": "Decrement",
+  "message_creat": {
+    "creat_success": "Seminar added successfully",
+    "creat_error": "Something went wrong",
+    "Full_img": "Please fill in IMG",
+    "MB_img": "Please select a file"
+  },
+  "error": {
+    "ErrorMessage_Area": "Error Message Area"
+  },
+  "Sl_top": {
+    "Seminar_List": "Seminar List",
+    "Seminar_Title": "Seminar Title",
+    "Seminar_Category": "Seminar Category",
+    "Search": "Search"
+  },
+  "Sl_bottom": {
+    "Delete": "Delete",
+    "Register": "Register",
+    "Download": "Download",
+    "Seminar_Number": "Seminar Number",
+    "Seminar_Title": "Seminar Title",
+    "Overview": "Overview",
+    "Posting": "Posting",
+    "Seminar_Category": "Seminar Category",
+    "Event_Date": "Event Date",
+    "Publication_Period": "Publication Period",
+    "Publication_Status": "Publication Status",
+    "Seminar_URL": "Seminar URL",
+    "Numberof_Applicants": "Number of Applicants"
+  },
+
+  "Seminarinformation": {
+    "Publication_period": "Publication Period",
+    "starts": "Starts",
+    "ends": "Ends",
+    "Seminar_URL": "Seminar URL",
+    "Seminar_title": "Seminar Title",
+    "Seminar_classification": "Seminar Classification",
+    "Offline": "In-Person",
+    "Online": "Online",
+    "Event": "Event Date",
+    "max_human": "Max Attendees for In-Person Seminars",
+    "Seminar_attribute": "Seminar Attribute Icon",
+    "icon_1": "Seminar",
+    "icon_2": "Conference",
+    "icon_3": "Workshop",
+    "icon_4": "Presentation"
+  },
+  "List_display_information": {
+    "four_anh": "List Display Image",
+    "List_overview": "List Overview",
+    "one_main": "Detailed Image (Main)"
+  },
+  "Detailed_information": {
+    "Detailed_img": "Image (Sub)",
+    "heading": "Heading",
+    "message": "Message",
+    "Detailed": "Detailed Information"
+  },
+  "Application_email": {
+    "venue": "Optional Message (In-Person)",
+    "online": "Optional Message (Online)"
+  },
+  "reminder_email": {
+    "URL": "Online Viewing URL",
+    "venue": "Optional Message (In-Person)",
+    "online": "Optional Message (Online)"
+  },
+  "Seminar_email": {
+    "venue": "Optional Message (In-Person)",
+    "online": "Optional Message (Online)"
+  },
+  "questionnaire": {
+    "Cotbu": "Questionnaire",
+    "Required": "Required Answer",
+    "true": "Required",
+    "false": "Optional",
+    "format": "Questionnaire Format",
+    "radio_button": "Radio Button",
+    "checkbox": "Checkbox",
+    "text": "Text",
+    "question": "Question",
+    "Answer": "Answer"
+  },
+  "delete": {
+    "Doyouwanttodelete": "Do you want to delete?",
+    "Cancel": "Cancel",
+    "Okay": "Okay",
+    "Deleteseminarsuccess": "Seminar deleted successfully!",
+    "Chooseatleast1toshuffle": "Please choose at least 1 to shuffle"
+  },
+  "print": {
+    "projectName": "U-Sen Healthcare",
+    "client": "Team 2 JAVA",
+    "address": "No. 180-182-184 NTP, Da Nang, VN",
+    "email": "Team2@gmail.com"
+  },
+  "chart": {
+    "text_12thang": "Statistics of the number of seminars held in December 2023",
+    "text_top3": "Top 3 months with the most seminar openings in 2023"
+  },
+  "human": "people",
+  "Register": "Register",
+  "upanh": "Select a file",
+  "batbuoc": "* Required field",
+  "canhbao": "Message"
+}

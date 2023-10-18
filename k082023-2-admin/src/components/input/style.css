@@ -1,0 +1,10 @@
+.input__container {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    gap: 5px
+}
+
+.inpur_LG{
+    font-size: 12px;
+}

@@ -1,0 +1,22 @@
+{
+    "slidebar": {
+        "Business_Menu":"業務メニュー",
+        "Product_Management": "商材管理",
+        "Product_List": "商材一覧",
+        "SetProduct_List": "セット商材一覧",
+        "Posting_Management": "掲載管理",
+        "Posting_List": "掲載一覧",
+        "Seminar_List": "Webセミナー一覧",
+        "Campaign_List": "キャンペーン一覧",
+        "Management_Member": "会員商材アクション管理",
+        "Member_ActionList": "会員商材アクション一覧",
+        "Survey_Management": "アンケート管理",
+        "Survey_List": "アンケート一覧",
+        "Member_Management": "会員管理",
+        "Member_List":"会員一覧",
+        "Employee_Management": "社員管理",
+        "Employee_List": "社員管理"
+    
+    
+      }
+}

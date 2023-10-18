@@ -1,0 +1,62 @@
+
+.ghichu{
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    transition: all 0.3s ease;
+    font-weight: bold;
+}
+.ghichu_top3{
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    transition: all 0.3s ease;
+    font-weight: bold; 
+}
+@media only screen and (min-width: 1130px){
+div#chart-container {
+    margin: 50px;
+    width: 800px;
+}
+.top3{
+    width:500px ;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column; 
+    text-align: center; 
+    margin: 40px 0px 0px 111px;
+}
+}
+@media only screen and (max-width: 1130px) and (min-width: 731px) {
+    div#chart-container {
+        margin: 50px;
+        width: 410px;
+    height: 500px;
+        transition: all 0.3s ease; 
+
+    }
+    canvas.chart_bb {
+        min-width: 405px;
+    }
+}
+
+@media only screen and (max-width: 730px)  {
+
+    div#chart-container {
+        margin: 50px;
+        width: 344px;
+        transition: all 0.3s ease; 
+    }
+    canvas.chart_bb {
+        min-width: 299px;
+    }
+    .ghichu{
+        font-size: 10px;
+        text-align: center;
+        padding: 10px;
+        transition: all 0.3s ease;
+        font-weight: bold;
+    }
+    
+}

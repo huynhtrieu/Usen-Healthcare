@@ -1,0 +1,73 @@
+{
+    "Seminarinformation": {
+        "Publication_period": "Publication Period",
+        "starts": "Starts",
+        "ends": "Ends",
+        "Seminar_URL": "Seminar URL",
+        "Seminar_title": "Seminar Title",
+        "Seminar_classification": "Seminar Classification",
+        "Offline": "Venue",  
+        "Online": "Online",
+        "Event": "Event Date",
+        "max_human": "Maximum Participants",
+        "Seminar_attribute": "Seminar Icon",
+        "icon_1": "Seminar",
+        "icon_2": "Conference",
+        "icon_3": "Workshop",
+        "icon_4": "Presentation"
+    },
+    "List_display_information": {
+        "four_anh": "List  Images",
+        "List_overview": "List Overview",
+        "one_main": "Image (Main)"
+    },
+    "Detailed_information": {
+        "Detailed_img": "Image (Sub)",
+        "heading": "Heading",
+        "message": "Message",
+        "Detailed": "Detailed Information"
+    },
+    "Application_email": {
+        "venue": " Message (Venue)",
+        "online": " Message (Online)",
+        "td1":"Application reception completion email"
+    },
+    "reminder_email": {
+        "URL": " Viewing URL",
+        "venue": " Message (Venue)",
+        "online": " Message (Online)",
+        "td2":"reminder email"
+
+    },
+    "Seminar_email": {
+        "venue": " Message (Venue)",
+        "online": " Message (Online)",
+        "td3":"Seminar end thank you email"
+
+    },
+    "questionnaire": {
+        "Cotbu": "Questionnaire",
+        "Required": " Answer Category",
+        "true": "Required",
+        "false": "Optional",
+        "format": "Questionnaire Format",
+        "radio_button": "Radio Button",
+        "checkbox": "Checkbox",
+        "text": "Text",
+        "question": "Question",
+        "Answer": "Answer"
+    },
+    "message_creat": {
+        "creat_success": "Successfully added the seminar",
+        "creat_error": "An issue occurred",
+        "Full_img": "Please fill in IMG",
+        "MB_img": "Please select a file"
+    },
+    
+    "upanh":"Select a file",
+    "Register": "Register",
+    "batbuoc": "*Required field",
+    "canhbao": "Please complete all the fields",
+    "Return": "Return",
+    "Download": "Download"
+}

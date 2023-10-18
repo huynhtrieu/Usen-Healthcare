@@ -1,0 +1,40 @@
+.header {
+  text-align: center;
+  color: #fff;
+  height: 64px;
+  padding-inline: 0px !important;
+  line-height: 64px;
+  background-image: linear-gradient(rgb(0, 0, 0) 75%, violet 75%);
+  border: 2px solid #e2e2e2;
+}
+.logo {
+      display: flex;
+      align-items: center;
+      gap: 8px; 
+    }
+    .logo img {
+      width: 263px;
+      height: auto; 
+    }
+  .contentStyle {
+  text-align: center;
+  color: #000000;
+  height: 656px;
+  background-color: #ffffff;
+}
+
+.footer {
+position: fixed;
+left: 0;
+height: 22px;
+bottom: 0;
+width: 100%;
+background-color: #2d2d34;
+color: #fff5f5;
+text-align: center;
+/* padding-bottom: 3vh; */
+}
+
+.icon{ margin-left: 4%;
+font-weight: bold;
+}

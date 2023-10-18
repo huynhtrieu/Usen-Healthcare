@@ -1,0 +1,142 @@
+
+  .select {
+    width: 100%;
+  }
+  
+  .button {
+    width: 100%;
+  }
+.formItemContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+  border: 1px solid #ccc; 
+  border-radius: 10px; 
+  padding: 20px 30px 0 10px 
+}
+
+
+.formBorder {
+  border: 1px solid #ccc;
+
+}
+.formButton {
+  margin-left:auto;
+   margin-right: -1%;
+   margin-top: 2%;
+}
+.buttonStyle{
+  background-color: #ebe9e9;
+  color: black; 
+border : 1px solid black; 
+border-top: 1px solid transparent; 
+border-left: 1px solid transparent;
+border-radius: 0;
+}
+.laberStyle{
+  margin-bottom: 0;
+  padding-left: 0px;
+  padding-right: 0px;
+
+}
+.inputStyle{
+  padding: 2px;  
+
+}
+
+.laberStyle label {
+  background-color: #fff09f;
+  width:140px;
+  
+}
+.ant-select-selector {
+  height: 15px;
+}
+.Select{
+padding: 3px;
+}
+:where(.css-dev-only-do-not-override-byeoj0).ant-layout {
+  display: flex;
+  flex: auto;
+  flex-direction: column;
+  min-height: 0;
+  background: white;
+}
+.semilar_task{
+  background: white;
+  min-height: 100vh;
+
+}
+.formButton_sl {
+  margin-left: auto;
+  margin-right: -1%;
+  margin-top: 2%;
+}
+button{
+  width: 115px;
+}
+Button p{
+font-size: 10px;  }
+.buttonStyle {
+  background-color: #d3d3d34d;
+  color: black;
+  border: 1px solid black;
+  border-top: 1px solid transparent;
+  border-left: 1px solid transparent;
+  border-radius: 0;
+}
+
+.button_seminar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button_row {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.button_right {
+  display: flex;
+  align-items: center;
+}
+.buttonStyle_left{
+  margin-bottom: 0px;
+  background-color: #d3d3d34d;
+  color: black;
+  border: 1px solid black;
+  border-top: 1px solid transparent;
+  border-left: 1px solid transparent;
+  border-radius: 0;
+} 
+@media (max-width: 768px) {
+  .button_seminar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .button_right {
+    margin-top: 16px;
+  }
+}
+:where(.css-dev-only-do-not-override-byeoj0).ant-btn {
+  font-size: 12px;
+  height: 32px;
+  padding: 4px 15px;
+  border-radius: 6px;
+}
+#print {
+  display: none;
+}
+
+@media print{
+	.semilar_task{
+    display: none;
+  }
+  #print {
+    display: block;
+}
+}

@@ -1,0 +1,19 @@
+/* Toggle menu */
+.siteLayout {
+
+}
+
+.siteLayoutBackground {
+    background: #fff;
+    width: 100%;
+    height: 100%;
+}
+
+.mainLayout {
+    height: 100%;
+    width: 100%;
+}
+
+.new {
+    background: rgb(243, 219, 214);
+}

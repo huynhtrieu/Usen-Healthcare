@@ -1,0 +1,22 @@
+.logo {
+    height: 28px;
+    /* margin: 12%; */
+    margin-bottom: 14%;
+}
+
+.sidebar {
+    box-shadow: -5px 5px 15px rgba(0,0,0,.1);
+    background: white;
+}
+
+.logoIcon {
+    width: 100%;
+}
+
+.link a{
+    color: black
+}
+.menu-divider {
+    border-bottom: 1px solid #ccc; 
+    margin-bottom: 8px; 
+  }

@@ -1,0 +1,23 @@
+.error {
+    margin-bottom: 0px !important;
+}
+
+.Input_password{
+    margin: 6px 0 6px 0;
+    background-color: #eeeded;
+}
+.button_login{
+        color: #fff;
+        background-color: #F44336;
+        box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+        border-radius: 0px;
+}
+
+.Input_email{
+    border-radius: 0px;
+    background-color: #eeeded;
+}
+.loginForm{
+    width: 100%;
+    margin: 0px;
+}

@@ -1,0 +1,159 @@
+.ant-col.ant-col-4.ant-form-item-label.css-dev-only-do-not-override-byeoj0 {
+    background-color: rgb(244, 236, 198);
+    margin-right: 18px;
+    border-right: 1px solid gray; 
+
+    text-align: inherit;
+
+}
+.ant-form {
+    max-width: 900px;
+    margin: 28px 28px 28px 38px;
+}
+.ant-col.ant-col-4.ant-form-item-label.css-dev-only-do-not-override-byeoj0 >label{
+    padding: 0px 0 0 10px;
+    font-size: 9px;
+    width: 146px;
+}
+.ant-col.ant-col-14.ant-form-item-control.css-dev-only-do-not-override-byeoj0 {
+    /* padding: 5px; */
+    min-width: 76%;
+}
+:where(.css-dev-only-do-not-override-byeoj0).ant-radio-wrapper .ant-radio-checked .ant-radio-inner {
+    border-color: #000000;
+    background-color: #434446;
+}
+.ant-form-item-control-input {
+    padding: 5px;
+}
+span.ant-upload-wrapper.css-dev-only-do-not-override-byeoj0 {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 38px;
+}
+.ant-upload.ant-upload-select-picture-card > .ant-upload {
+    margin-left: 200px;
+    position: fixed;
+  } .image {
+    margin-left: 100px;
+  }
+  .ant-upload.ant-upload-select {
+    position: absolute;
+    top: 11%;
+    border-style: dotted;
+    border-color: #adadb0;
+    border-radius: 13px;
+    padding: 44px 29px 5px 29px;
+    left: 46%;
+}
+.ant-upload-list.ant-upload-list-picture {
+    position: absolute;
+    top: 12%;
+    left: 5%;
+    width: 125px;
+    height: 91px;
+    border-style: dotted;
+    border-color: #adadb0;
+
+}
+/* ẩn tên ảnh */
+
+span.ant-upload-list-item-name{
+    display: none;
+}
+span.ant-upload-list-item-actions.picture{
+    display: none;
+}
+
+:where(.css-dev-only-do-not-override-byeoj0).ant-upload-wrapper .ant-upload-list.ant-upload-list-picture .ant-upload-list-item-error, :where(.css-dev-only-do-not-override-byeoj0).ant-upload-wrapper .ant-upload-list.ant-upload-list-picture-card .ant-upload-list-item-error, :where(.css-dev-only-do-not-override-byeoj0).ant-upload-wrapper .ant-upload-list.ant-upload-list-picture-circle .ant-upload-list-item-error {
+    border-color: #ffffff;
+}
+:where(.css-dev-only-do-not-override-byeoj0).ant-upload-wrapper .ant-upload-list.ant-upload-list-picture .ant-upload-list-item .ant-upload-list-item-thumbnail, :where(.css-dev-only-do-not-override-byeoj0).ant-upload-wrapper .ant-upload-list.ant-upload-list-picture-card .ant-upload-list-item .ant-upload-list-item-thumbnail, :where(.css-dev-only-do-not-override-byeoj0).ant-upload-wrapper .ant-upload-list.ant-upload-list-picture-circle .ant-upload-list-item .ant-upload-list-item-thumbnail {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100%;
+    height: 254%;
+    line-height: 60px;
+    text-align: center;
+    flex: none;
+}
+.ant-picker.css-dev-only-do-not-override-byeoj0 {
+    width: 85%;
+}
+@media (min-width: 1200px)
+{
+ 
+  :where(.css-dev-only-do-not-override-byeoj0).ant-col-xl-9 {
+      display: block;
+      flex: 0 0 50%;
+      max-width: 100%;
+  }
+
+}
+p {
+    font-size: 9px;
+}
+button.ant-btn.css-dev-only-do-not-override-byeoj0.ant-btn-default {
+    background-color: #d3d3d34d;
+    color: black;
+    border: 1px solid black;
+    border-top: 1px solid transparent;
+    border-left: 1px solid transparent;
+    border-radius: 0;
+    font-size: 9px;
+}
+
+
+label.ant-radio-wrapper._ques_radio_v6u1d_109.css-dev-only-do-not-override-byeoj0 {
+    font-size: 9px;
+}
+.congtru{
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+
+}
+.datepicker_custom {
+    display: flex;
+    gap: 10px;
+    font-size: 9px;
+    align-items: center;
+    height: 100%;
+}
+:where(.css-dev-only-do-not-override-byeoj0).ant-checkbox-group> label {
+    font-size: 9px;
+}
+
+label.ant-checkbox-wrapper.ant-checkbox-wrapper-in-form-item.css-dev-only-do-not-override-byeoj0 {
+    font-size: 9px;
+}
+
+
+
+.checkbox-group__container {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    gap: 5px;
+}
+:where(.css-dev-only-do-not-override-byeoj0).ant-form label {
+    font-size: 9px;
+}
+.input_applications{
+    height: 80px;
+}
+.ant-form-item .ant-form-item-label > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::after {
+    display: inline-block;
+    color: #ff4d4f;
+    font-size: 14px;
+    font-family: SimSun, sans-serif;
+    line-height: 1;
+    margin-left: auto;
+
+    content: "*";
+}
+
+:where(.css-dev-only-do-not-override-byeoj0).ant-form-item .ant-form-item-label >label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before {
+   
+    display: none;
+}

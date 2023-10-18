@@ -1,0 +1,27 @@
+{
+    
+  "Sl_top": {
+    "Seminar_List": "Seminar List",
+    "Seminar_Title": "Seminar Title",
+    "Seminar_Category": "Seminar Category",
+    "Search": "Search"
+  },
+  "Sl_bottom": {
+    "Delete": "Delete",
+    "Register": "Register",
+    "Download": "Download",
+    "Seminar_Number": "Seminar Number",
+    "Seminar_Title": "Seminar Title",
+    "Overview": "Overview",
+    "Posting": "Posting",
+    "Seminar_Category": "Seminar Category",
+    "Event_Date": "Event Date",
+    "Publication_Period": "Publication Period",
+    "Publication_Status": "Publication Status",
+    "Seminar_URL": "Seminar URL",
+    "Numberof_Applicants": "Number of Applicants",
+    "Offline" :"Offline ",  
+        "Online":"Online",
+        "human":"human"
+  }
+  }

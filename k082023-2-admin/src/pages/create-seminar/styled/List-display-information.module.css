@@ -1,0 +1,74 @@
+.row_col_13_upload{
+    background: rgb(244, 236, 198);
+    text-align: center;
+    min-height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 520px;
+    padding: 0 0 0 10px;
+    font-size: 9px;
+    border: 1px solid gray;
+
+}
+.row_col_21_24{
+    min-height: 100%;
+    height: 62px;
+    border: 1px solid gray;
+}
+.row_col_16{
+    min-height: 100%;
+    background: rgb(244, 236, 198);
+    padding: 0 0 0 10px;
+    font-size: 9px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 130px;
+    border: 1px solid gray;
+}
+.row_col_21_21{
+    min-height: 100%;
+
+    height: 80px;
+    border: 1px solid gray;
+}
+.row_col_14_upload{
+    min-height: 100%;
+    height: 340px;
+    text-align: center;
+    /* display: flex; */
+    align-items: center;
+    flex-direction: row-reverse; /* Đảm bảo nút bấm bên phải và ảnh bên trái */
+    align-items: center;
+      border: 1px solid gray;
+    
+}
+
+.row_col_15{
+    background: rgb(244, 236, 198);
+    min-height: 100%;
+    text-align: center;
+    display: flex;
+    padding: 0 0 0 10px;
+    font-size: 9px;
+    align-items: center;
+    height: 62px;
+    border: 1px solid gray;
+}
+.customUploadContainer {
+    display: flex;
+    align-items: center;
+  }
+.Anh_13_14{
+    height: 520px;
+    border: 1px solid gray;
+}
+.anh1{
+    height: 130px;
+}
+.row_col_16_17{
+    height: 130px;
+    border: 1px solid gray;
+
+}

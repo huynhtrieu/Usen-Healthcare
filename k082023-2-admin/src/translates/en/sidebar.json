@@ -1,0 +1,21 @@
+{
+  "slidebar": {
+    "Business_Menu": "Business Menu",
+    "Product_Management": "Product Management",
+    "Product_List": "Product List",
+    "SetProduct_List": "Set Product List",
+    "Posting_Management": "Posting Management",
+    "Posting_List": "Posting List",
+    "Seminar_List": "Web Seminar List",
+    "Campaign_List": "Campaign List",
+    "Management_Member": "Member Product Action Management",
+    "Member_ActionList": "Member Product Action List",
+    "Survey_Management": "Survey Management",
+    "Survey_List": "Survey List",
+    "Member_Management": "Member Management",
+    "Member_List": "Member List",
+    "Employee_Management": "Employee Management",
+    "Employee_List": "Employee List"
+  }
+  
+}

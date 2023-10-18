@@ -1,0 +1,29 @@
+.trigger {
+    font-size: 25px;
+    line-height: 9.5vh;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+.trigger{
+    color: white;
+}
+
+.trigger:hover {
+    color: rgba(255, 255, 255, 0.88);
+}
+.header {
+    height: 9.5vh !important;
+    line-height: 4.5vh !important;
+    width: 100%;
+    box-shadow: -5px 5px 15px rgba(0,0,0,.1);
+}
+.right {
+    display: inline-flex;
+    float: right;
+    margin-right: 0.8rem;
+}
+.header {
+    background-image: linear-gradient(rgb(0, 0, 0) 80%, violet 80%);
+
+}

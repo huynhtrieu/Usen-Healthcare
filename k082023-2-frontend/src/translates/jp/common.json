@@ -1,0 +1,22 @@
+{
+  "home": "ホーム",
+  "history": "歴史",
+  "deposit": "入金",
+  "withdraw": "撤退",
+  "close": "閉じる",
+  "address": "アドレス",
+  "amount": "量",
+  "cancel": "キャンセル",
+  "email": "メール",
+  "currency": "通貨",
+  "date": "日",
+  "login": "ログイン",
+  "status": "スターテス",
+  "to": "に",
+  "from": "から",
+  "block_number": "ブロック番号",
+  "txid": "Txt hash",
+  "count": "数える",
+  "increment": "インクリメント",
+  "decrement": "デクリメント"
+}

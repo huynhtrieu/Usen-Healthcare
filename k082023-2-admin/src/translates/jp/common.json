@@ -1,0 +1,138 @@
+{
+  "home": "ホーム",
+  "history": "歴史",
+  "deposit": "入金",
+  "withdraw": "撤退",
+  "close": "閉じる",
+  "address": "アドレス",
+  "amount": "量",
+  "cancel": "キャンセル",
+  "email": "メール",
+  "currency": "通貨",
+  "date": "日",
+  "login": "ログイン",
+  "status": "スターテス",
+  "to": "に",
+  "from": "から",
+  "block_number": "ブロック番号",
+  "txid": "Txt hash",
+  "count": "数える",
+  "increment": "インクリメント",
+  "decrement": "デクリメント",
+
+  
+  "message_creat":{
+    "creat_success":"セミナーの成功を追加",
+    "creat_error":"何か問題が発生しました",
+    "Full_img":"記入してください IMG",
+    "MB_img":"ファイルを選択してください"
+
+  },
+  "error":{
+    "ErrorMessage_Area":"エラーメッセージエリア"
+  },
+  "Sl_top":{
+    "Seminar_List":"セミナー一覧",
+    "Seminar_Title":"セミナータイトル",
+    "Seminar_Category":"セミナー区分",
+    "Search":"検索する"
+
+  },
+  "Sl_bottom":{
+    "Delete":"削除する",
+    "Register":"新規登録する",
+    "Download":"ダウンロードする",
+    "Seminar_Number":"セミナー番号",
+    "Seminar_Title":"セミナータイトル",
+    "Overview":"概要",
+    "Posting":"掲載中",
+    "Seminar_Category":"セミナー区分",
+    "Event_Date":"開催日",
+    "Publication_Period":"掲載期間",
+    "Publication_Status":"掲載ステータス",
+    "Seminar_URL":"セミナーURL",
+    "Numberof_Applicants":"申込者数"
+  },
+
+ 
+"Seminarinformation":{
+  "Publication_period":"掲載期間",
+  "starts":"開始",
+  "ends":"終了",
+  "Seminar_URL":"セミナーURL",
+    "Seminar_title":"セミナータイトル",
+    "Seminar_classification":"セミナー区分",
+    "Offline" :"会場 ",  
+    "Online":"オンライン",
+    "Event":"開催日",
+    "max_human":"会場セミナー参加定員",
+    "Seminar_attribute":"セミナー属性アイコン",
+    "icon_1":"セミナー",
+    "icon_2":"会議",
+    "icon_3":"ワークショップ",
+    "icon_4":"プレゼンテーション"
+},
+"List_display_information":{
+  "four_anh":"一覧表示画像",
+    "List_overview":"一覧概要",
+    "one_main":"詳細表示画像（メイン)"
+},
+"Detailed_information":{
+  "Detailed_img":"画像（サブ)",
+  "heading":"見出し",
+  "message":"メッセージ",
+  "Detailed":"詳細情報"
+},
+"Application_email":{
+  "venue":"任意メッセージ（会場)",
+  "online":"任意メッセージ（オンライン)"
+},
+"reminder_email":{
+  "URL":"オンライン視聴URL",
+  "venue":"任意メッセージ（会場)",
+  "online":"任意メッセージ（オンライン)"
+},
+"Seminar_email":{
+  "venue":"任意メッセージ（会場)",
+  "online":"任意メッセージ（オンライン)"
+},
+"questionnaire":{
+  "Cotbu":"アンケー",
+  "Required":"回答必須区分",
+  "true":"必須",
+  "false":"任意",
+  "format":"アンケート形式",
+  "radio_button":"ラジオボタン",
+  "checkbox":"チェックボックス ",
+  "text":"テキスト",
+  "question":"質問",
+  "Answer":"回答"
+
+},
+
+"delete":{
+  "Doyouwanttodelete":"削除しますか?",
+  "Cancel":"キャンセル",
+  "Okay":"わかった",
+  "Deleteseminarsuccess":"セミナー削除成功！",
+  "Chooseatleast1toshuffle":"シャッフルするには少なくとも 1 つを選択してください"
+
+},
+"print":{
+  "projectName":"U-Sen Healthcare",
+  "client":"Team 2 JAVA",
+  "address":"No. 180-182-184 NTP,Da Nang,VN",
+  "email":"Team2@gmail.com"
+
+},
+"chart":{
+  "text_12thang":"2023年12月に開催されたセミナーの数を統計",
+  "text_top3":"2023年の最も多いセミナーオープニング回数のトップ3ヶ月."
+},
+"human":"人",
+"Register":"新規登録する",
+"upanh":"ファイルを選択",
+"batbuoc":"*必須項目",
+"canhbao":"メッセージ"
+}
+

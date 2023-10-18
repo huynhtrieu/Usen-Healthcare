@@ -1,0 +1,28 @@
+{
+  "common": {
+    "loading": "読み込み中",
+    "err_loading": "セミナーの読み込みエラー",
+    "": ""
+  },
+
+  "seminars": {
+    "title_seminars": "セミナー一覧",
+    "btn_detail": "詳細・申込み",
+    "overview": "概要：",
+    "venue": "会場：東京都●●区　秋葉原UDX／Live参加も可能です。",
+    "numberOfApplicants": "申込み人数：",
+    "people": "人" 
+  },
+
+  "detail": {
+    "title_detail": "セミナー詳細",
+    "detail": "詳細",
+    "title_success": "タイン・コン",
+    "title_failure": "エラー",
+    "register_success": "セミナーへの登録が完了しました。",
+    "register_failure": "このセミナーにはすでにお申込みいただいています。",
+    "btn_offline": "見学のお申込み",
+    "btn_online": "オンライン参加申し込み",
+    "": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+    
+"Seminarinformation":{
+    "Publication_period":"掲載期間",
+    "starts":"開始",
+    "ends":"終了",
+    "Seminar_URL":"セミナーURL",
+      "Seminar_title":"セミナータイトル",
+      "Seminar_classification":"セミナー区分",
+      "Offline" :"会場 ",  
+      "Online":"オンライン",
+      "Event":"開催日",
+      "max_human":"会場セミナー参加定員",
+      "Seminar_attribute":"セミナー属性アイコン",
+      "icon_1":"セミナー",
+      "icon_2":"会議",
+      "icon_3":"ワークショップ",
+      "icon_4":"プレゼンテーション"
+  },
+  "List_display_information":{
+    "four_anh":"一覧表示画像",
+      "List_overview":"一覧概要",
+      "one_main":"詳細表示画像（メイン)"
+  },
+  "Detailed_information":{
+    "Detailed_img":"画像（サブ)",
+    "heading":"見出し",
+    "message":"メッセージ",
+    "Detailed":"詳細情報"
+  },
+  "Application_email":{
+    "venue":"任意メッセージ（会場)",
+    "online":"任意メッセージ（オンライン)",
+    "td1":"申込受付完了メール"
+    
+  },
+  "reminder_email":{
+    "URL":"オンライン視聴URL",
+    "venue":"任意メッセージ（会場)",
+    "online":"任意メッセージ（オンライン)",
+    "td2":"リマインダメール"
+  },
+  "Seminar_email":{
+    "venue":"任意メッセージ（会場)",
+    "online":"任意メッセージ（オンライン)",
+    "td3":"セミナー終了お礼メール"
+
+  },
+  "questionnaire":{
+    "Cotbu":"アンケー",
+    "Required":"回答必須区分",
+    "true":"必須",
+    "false":"任意",
+    "format":"アンケート形式",
+    "radio_button":"ラジオボタン",
+    "checkbox":"チェックボックス ",
+    "text":"テキスト",
+    "question":"質問",
+    "Answer":"回答"
+  
+  },
+  "message_creat":{
+    "creat_success":"セミナーの成功を追加",
+    "creat_error":"何か問題が発生しました",
+    "Full_img":"記入してください IMG",
+    "MB_img":"ファイルを選択してください"
+
+  },
+  "upanh":"ファイルを選択",
+  "Register":"新規登録する",
+  "batbuoc":"*必須項目",
+  "canhbao":"メッセージ",
+  "Return":"戻る",
+  "Download":"ダウンロードする"
+
+}

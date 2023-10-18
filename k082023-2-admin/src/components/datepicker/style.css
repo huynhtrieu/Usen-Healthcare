@@ -1,0 +1,17 @@
+.datepicker_custom {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    height: 100%;
+}
+
+.datepicker_custom__label {
+    white-space: nowrap;
+}
+
+.datepicker_custom--container {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}

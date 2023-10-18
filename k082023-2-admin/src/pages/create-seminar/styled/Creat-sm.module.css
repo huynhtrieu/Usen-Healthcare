@@ -1,0 +1,17 @@
+.button_creat_seminar{
+    max-width:900px ;
+    margin: 28px 28px 28px 38px;
+    display: flex; /* Sử dụng flexbox */
+    justify-content: flex-end; /* Căn nút bấm sang phải */
+}
+
+.buttonStyle p{
+    font-size: 10px;  }
+      .buttonStyle {
+        background-color: #d3d3d34d;
+        color: black;
+        border: 1px solid black;
+        border-top: 1px solid transparent;
+        border-left: 1px solid transparent;
+        border-radius: 0;
+      }

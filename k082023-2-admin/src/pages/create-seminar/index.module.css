@@ -1,0 +1,185 @@
+.SemilarCreat_task {
+    background: white;
+}
+.ant-col.ant-col-md-12.ant-col-xl-8.css-dev-only-do-not-override-byeoj0 {
+    min-width: 240px;
+}
+
+.laberStyle_SI{
+    margin-bottom: 0px !important;
+    border: 1px solid gray;
+}
+
+.ant-col.ant-col-4.ant-form-item-label.css-dev-only-do-not-override-byeoj0 {
+    background-color: navajowhite;
+    margin-right: 20px;
+}
+.input_applications{
+    height: 50px;
+}
+.form_21{
+
+}
+.header {
+    background: rgb(244, 236, 198);
+    min-height: 100%;
+    text-align: center;
+    display: flex;
+    font-size: 9px;
+    padding: 0 0 0 10px;
+    align-items: center; 
+    border: 1px solid gray;
+  }
+  
+.row_col_24{
+    background: rgb(244, 236, 198);
+    min-height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 10px;
+    font-size: 9px;
+    height: 62px;
+    border: 1px solid gray;
+}
+.row_col_24_upload{
+    background: rgb(244, 236, 198);
+    text-align: center;
+    min-height: 100%;
+    text-align: center;
+    display: flex;
+    padding: 0 0 0 10px;
+    font-size: 9px;
+    align-items: center;
+    height: 115px;
+    border: 1px solid gray;
+
+}
+.row_col_21_24{
+    min-height: 100%;
+    height: 62px;
+    border: 1px solid gray;
+}
+.row_col_24_so21{
+    min-height: 100%;
+    background: rgb(244, 236, 198);
+    padding: 0 0 0 10px;
+    font-size: 9px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    border: 1px solid gray;
+}
+.row_col_21_21{
+    min-height: 100%;
+
+    height: 80px;
+    border: 1px solid gray;
+}
+.row_col_21_24_upload{
+    min-height: 100%;
+    height: 115px;
+    text-align: center;
+    /* display: flex; */
+    align-items: center;
+    flex-direction: row-reverse; 
+    align-items: center;
+      border: 1px solid gray;
+    
+}
+
+.ant-col .ant-col-4{
+    padding: 0 0 0 10px;
+    font-size: 9px;
+}
+/* phần css cho khung ảnh  */
+/* Component.module.css */
+
+@media only screen and (max-width: 600px) {
+  
+  .input_26{
+    margin: 8px 0px 10px 36px;
+    width: 83%;
+    height: 36px;
+  }
+  .input_21{
+    margin: 6px 0px 10px 36px;
+    width: 83%;
+    height: 36px;
+  }
+  .input_34_35{
+    margin: 6px 0 12px 31px;
+    height: 55px;
+    width: 83%;
+  }
+
+}
+
+
+.Cong_tru_form{
+    border: 1px solid gray;
+    height: 40px;
+
+}
+  .input_26{
+    margin: 8px 0px 10px 36px;
+    /* width: 83%; */
+    height: 36px;
+  }
+.input_20{
+    margin: 12px 0px 10px 36px;
+    width: 83%;
+    height: 36px;}
+.input_21{
+    margin: 6px 0 7px 36px;
+    height: 55px;
+    /* width: 83%; */
+}
+.input_34_35{
+  margin: 6px 0 6px 31px;
+  height: 55px;
+  /* width: 83%; */
+}
+  .customUploadContainer {
+    display: flex;
+    align-items: center;
+  }
+  .image {
+    margin-left: 100px;
+  }
+  .Footer_18_22{
+    min-height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    border: 1px solid gray;
+  }
+  .congtru{
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+
+}
+.container_canhbao{
+  max-width: 271px;
+  padding: 0 0 0 0px;
+  position: relative; 
+
+}
+.canhbao{
+  color: red;
+  font-size: 15px;
+  position: absolute; 
+  top: -12px; 
+  right: 0; 
+}/* 
+left: 10%;
+  } */
+
+.rangbuoc{
+  max-width: 900px;
+  display: flex;
+  color: red;
+  justify-content: flex-end
+}

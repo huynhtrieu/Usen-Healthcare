@@ -1,0 +1,28 @@
+{
+
+  "common": {
+    "loading": "Loading...",
+    "err_loading": "Seminar Loading Error",
+    "": ""
+  },
+
+  "seminars": {
+    "title_seminars": "List of seminars",
+    "btn_detail": "Details/Application",
+    "overview": "Overview：",
+    "venue": "Venue:You can also participate in Akihabara UDX/Live in ●● Ward, Tokyo.",
+    "numberOfApplicants": "Number of applicants: ",
+    "people": " people"
+  },
+
+  "detail": {
+    "title_success": "Success",
+    "detail": "Detail",
+    "title_failure": "Error",
+    "register_success": "Successfully Registered for Seminar",
+    "register_failure": "You have already applied for this seminar.",
+    "btn_offline": "Application for Visit",
+    "btn_online": "Online Participation Application",
+    "": ""
+  }
+}

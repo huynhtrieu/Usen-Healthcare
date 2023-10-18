@@ -1,0 +1,32 @@
+.anticon {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.ant-dropdown-menu-item {
+    min-width: 160px;
+}
+.anticon[tabindex] {
+    cursor: pointer;
+    color: white;
+}
+.action {
+    display: flex;
+    align-items: center;
+    height: 8.5vh;
+    padding: 0 12px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+
+
+.action span {
+    vertical-align: middle;
+    color: white;
+}
+
+.account .avatar {
+    margin-right: 8px;
+    background: #ff6345;
+}

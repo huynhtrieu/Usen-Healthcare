@@ -1,0 +1,30 @@
+{
+    
+    
+    "Sl_top":{
+        "Seminar_List":"セミナー一覧",
+        "Seminar_Title":"セミナータイトル",
+        "Seminar_Category":"セミナー区分",
+        "Search":"検索する"
+    
+      },
+      "Sl_bottom":{
+        "Delete":"削除する",
+        "Register":"新規登録する",
+        "Download":"ダウンロードする",
+        "Seminar_Number":"セミナー番号",
+        "Seminar_Title":"セミナータイトル",
+        "Overview":"概要",
+        "Posting":"掲載中",
+        "Seminar_Category":"セミナー区分",
+        "Event_Date":"開催日",
+        "Publication_Period":"掲載期間",
+        "Publication_Status":"掲載ステータス",
+        "Seminar_URL":"セミナーURL",
+        "Numberof_Applicants":"申込者数",
+        "Offline" :"会場 ",  
+        "Online":"オンライン",
+        "human":"人"
+
+      }
+}

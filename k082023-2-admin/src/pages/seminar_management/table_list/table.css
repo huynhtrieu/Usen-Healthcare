@@ -1,0 +1,73 @@
+.ant-table-thead .ant-table-cell {
+    background-color: #fff09f !important;
+}
+th.ant-table-cell.ant-table-selection-column {
+    width: 30px;
+}
+th.ant-table-cell.custom-class-for-column1 {
+    width: 115px;
+}
+th.ant-table-cell.custom-class-for-column2 {
+    width: 130px;
+}
+th.ant-table-cell.custom-class-for-column3 {
+    width: 150px;
+  
+}
+th.ant-table-cell.custom-class-for-column4 {
+    width: 102px;
+}
+th.ant-table-cell.custom-class-for-column5 {
+    width: 155px;
+}
+th.ant-table-cell.custom-class-for-column6 {
+    width: 215px;
+}
+th.ant-table-cell.custom-class-for-column7 {
+    width: 105px;
+}
+th.ant-table-cell.custom-class-for-column8 {
+    width: 140px;
+}
+th.ant-table-cell.custom-class-for-column9{
+    width: 140px;
+
+}
+  
+@media only screen and (min-width: 700px) {
+.custom-class-for-column3 {
+    max-height: 1em; 
+    overflow: hidden; 
+    white-space: nowrap; 
+    text-overflow: ellipsis;
+    max-width: 150px; 
+}
+.custom-class-for-column2{
+    max-height: 1em; 
+    overflow: hidden; 
+    white-space: nowrap; 
+    text-overflow: ellipsis;
+    max-width: 130px;
+}
+}
+
+@media only screen and (max-width: 650px) {
+    
+.custom-class-for-column3 {
+    max-height: 1em;
+    overflow: hidden; 
+    white-space: nowrap; 
+    text-overflow: ellipsis; 
+    max-width: 70px; 
+}
+.custom-class-for-column2{
+    max-height: 1em; 
+    overflow: hidden; 
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 30px; 
+}
+  }
+.ant-table-cell{
+    font-size: 12px;
+}

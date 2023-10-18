@@ -1,0 +1,22 @@
+{
+  "home": "Home",
+  "history": "History",
+  "deposit": "Deposit",
+  "withdraw": "Withdraw",
+  "close": "Close",
+  "address": "Address",
+  "amount": "Amount",
+  "cancel": "Cancel",
+  "email": "Email",
+  "currency": "Currency",
+  "date": "Date",
+  "login": "Login",
+  "status": "Status",
+  "to": "To",
+  "from": "From",
+  "block_number": "Block number",
+  "txid": "Txt hash",
+  "count": "Count",
+  "increment": "Increment",
+  "decrement": "Decrement"
+}

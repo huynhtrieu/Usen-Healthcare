@@ -1,0 +1,45 @@
+.ant-card-bordered {
+    border: 1px solid #ffffff;
+}
+  :where(.css-dev-only-do-not-override-byeoj0).ant-input-affix-wrapper {
+    position: relative;
+    display: inline-flex;
+    width: 100%;
+    min-width: 0;
+    padding: 4px 11px;
+    color: rgba(0, 0, 0, 0.88);
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+    background-color: #ffffff;
+    background-image: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-radius: 0px;
+    transition: all 0.2s;
+    background-color: #eeeded;
+
+}
+:where(.css-dev-only-do-not-override-byeoj0).ant-input-affix-wrapper >input.ant-input {
+  
+    background-color: #eeeded;
+   
+}
+:where(.css-dev-only-do-not-override-byeoj0).ant-form-item {
+   
+    margin-bottom: 0px;
+    
+}
+
+
+
+button.ant-btn.css-dev-only-do-not-override-byeoj0.ant-btn-primary._button_login_opdb1_15:active {
+    background-color: #F44336;
+}
+button.ant-btn.css-dev-only-do-not-override-byeoj0.ant-btn-primary._button_login_s8oev_15:hover {
+    background-color: #F44336;
+}
+:where(.css-dev-only-do-not-override-byeoj0).ant-card .ant-card-body {
+    padding: 0 24px 24px 24px;
+    border-radius: 0 0 8px 8px;
+}
